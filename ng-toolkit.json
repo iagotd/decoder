@@ -1,0 +1,13 @@
+{
+  "serverless": {
+    "provider": "aws",
+    "project": "dunecoder",
+    "skipInstall": false,
+    "directory": ".",
+    "clientProject": "dunecoder",
+    "serverless": {
+      "aws": {},
+      "gcloud": {}
+    }
+  }
+}
