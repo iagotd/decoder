@@ -27,8 +27,6 @@
               "./node_modules/bootstrap/dist/css/bootstrap.css",
               "src/css/styles.css",
               "src/css/bootstrap.css",
-              "src/css/swiper.css",
-              "src/css/magnific-popup.css",
               "src/css/fontawesome-all.css"
             ],
             "scripts": []
