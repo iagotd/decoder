@@ -26,6 +26,6 @@ export class HomeComponent implements OnInit {
 
   public scrollToElement(viewId){
     document.getElementById(viewId).scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"});
-}
+  }
 
 }
